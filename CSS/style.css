@@ -1,0 +1,84 @@
+body {
+  font-family: "Montserrat";
+}
+
+/* Title Section Background Color*/
+#title {
+  background-color: #ff4c68;
+
+
+/* Download Link Navbar */
+
+/*Meer New And interestiong dog nearby (Heading) */
+
+.mainHeading {
+  font-family: "Montserrat-Black", sans-serif;
+  line-height: 1.5;
+  font-size: 3.5rem;
+  font-weight: 900;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+.navbar-brand {
+  font-size: 2.5rem;
+  font-weight: bold;
+  font-family: "Ubuntu";
+}
+.btn1 {
+  margin-top: 20px;
+}
+.btn2 {
+  margin-top: 20px;
+  margin-left: 10px;
+}
+.nav-item {
+  padding: 0px 18px;
+  font-family: "Montserrat";
+  font-weight: 100;
+  font-size: 1.2rem;
+}
+.textHome {
+  color: white;
+  padding-top: 50px;
+}
+.navbar {
+  padding: 0px 0px 18px 0px;
+}
+.mobileDog {
+  position: absolute;
+  width: 50%;
+  z-index: 3;
+  transform: rotate(25deg);
+  right: 30%;
+}
+.homeContainer {
+  padding-top: 20px;
+}
+/* Features */
+#features {
+  padding: 7% 15%;
+  position: relative;
+  z-index: 3;
+  background: #fff;
+}
+.feature-box {
+  text-align: center;
+  padding: 4.5%;
+}
+h3 {
+  font-family: "Montserrat-Black", sans-serif;
+  font-weight: 900;
+  white-space: nowrap;
+}
+.p {
+  color: gray;
+}
+.icon {
+  padding-bottom: 3%;
+  color: #ef8172;
+}
+.icon:hover {
+  color: #ff4c68;
+}
